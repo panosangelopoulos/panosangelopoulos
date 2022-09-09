@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm a Software Engineer @TeleClinic working on healthcare 👨‍⚕️ ecosystem. 👋
 
-<!--
-**panosangelopoulos/panosangelopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏽‍💻 My primary focus over the past 10 years has been Javascript & Python development, namely Django, Flask, Node.js, React and React Native. I'm also experienced with frontend development including HTML, CSS and jQuery, Express, MongoDB.
 
-Here are some ideas to get you started:
+🎓 I hold two Bachelor (Bachelor of Science & Bachelor of Education) and a Master degree all of them in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Moverover i love contribute in open source projects, few of them
+
+🖥️ [FastAPI Health check](https://github.com/jtom38/fastapi_healthcheck)
+🖥 [Django GraphQL Auth](https://django-graphql-auth.readthedocs.io/en/latest/)
+🖥 [ReactJS](https://github.com/reactjs/el.reactjs.org)
+
+📫 How to reach me: panos.angelopoulos@outlook.com
