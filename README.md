@@ -32,5 +32,6 @@ In addition to development, i hold two Bachelor (Bachelor of Science & Bachelor 
 #### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/panosangelopoulos/">LinkedIn</a>
+- Follow me <a href="https://medium.com/@panos.g.angelopoulos">Medium</a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=panosangelopoulos&show_icons=true)
