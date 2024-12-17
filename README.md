@@ -14,9 +14,7 @@ In addition to development, i hold two Bachelor (Bachelor of Science & Bachelor 
 
 #### I'm an Software Engineer based in Greece 🏖️.
 
-- ❤️ Digitalizing the healthcare ecosystem in Germany @ **TeleClinic**
 - 😎 Open to contracting opportunities if the project sounds cool.
-- 🏢 Previously a Product Engineer at **Neocom** & Software Engineer at **Pure Labs GmhH**
 - ⚙️ Love workin with: `.py`, `.js`, `.jsx`, `.ts`, `.html`, `.tsx`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **Coder Dojo**
 - 💅 Active community member of: **Coder Dojo**
